@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2507104806 - Control 3923518949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight List - Control AirlineName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3669117977 - Control 3923518949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Check-In Page - Control AirlineName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3669117977 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Flight Check-In</source>
+          <target>Post Flight Check-In</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Check-In Page - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2089241987 - Control 3923518949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Boarding Page - Control AirlineName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 144398458 - Control 4171342537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Baggage Price, €</source>
+          <target>Total Baggage Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Check-In List - Control Total Baggage Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1604716870 - Control 4171342537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Baggage Price, €</source>
+          <target>Total Baggage Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Check-In Form - Control Total Baggage Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1604716870 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish Check-In &amp; Print Boarding Pass</source>
+          <target>Finish Check-In &amp; Print Boarding Pass</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Check-In Form - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1604716870 - NamedType 2087712815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order is posted as number %1 and moved to the Posted Sales Invoices window.\\Do you want to open the posted invoice?</source>
+          <target>The order is posted as number %1 and moved to the Posted Sales Invoices window.\\Do you want to open the posted invoice?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Check-In Form - NamedType OpenPostedSalesOrderQst</note>
+        </trans-unit>
+        <trans-unit id="Page 3920868494 - Control 2854289444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weight, kg</source>
+          <target>Weight, kg</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Baggage Subform - Control Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920868494 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price, €</source>
+          <target>Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Baggage Subform - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2821724418 - Control 3923518949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Posted Check-In Page - Control AirlineName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2821724418 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Flight Check-In</source>
+          <target>Post Flight Check-In</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Posted Check-In Page - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 994272209 - Control 4171342537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Baggage Price, €</source>
+          <target>Total Baggage Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Check-In List - Control Total Baggage Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1029057085 - Control 4171342537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Baggage Price, €</source>
+          <target>Total Baggage Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Check-In Form - Control Total Baggage Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1138250373 - Control 2470947953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Check-In No.</source>
+          <target>Posted Check-In No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Baggage Subform - Control Posted CheckIn No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1138250373 - Control 2854289444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weight, kg</source>
+          <target>Weight, kg</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Baggage Subform - Control Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1138250373 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price, €</source>
+          <target>Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Baggage Subform - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1427726860 - Control 3923518949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <target>Customer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Posted Boarding Page - Control AirlineName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3974519667 - Action 939480435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell Ticket &amp; Post</source>
+          <target>Sell Ticket &amp; Post</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ticket Sale Form - Action Confirm and Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3974519667 - NamedType 692525026" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order is posted as number %1 and moved to the Posted Purchase Invoices window.\\Do you want to open the posted invoice?</source>
+          <target>The order is posted as number %1 and moved to the Posted Purchase Invoices window.\\Do you want to open the posted invoice?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ticket Sale Form - NamedType OpenPostedPurchaseOrderQst</note>
+        </trans-unit>
+        <trans-unit id="Page 3974519667 - NamedType 2087712815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order is posted as number %1 and moved to the Posted Sales Invoices window.\\Do you want to open the posted invoice?</source>
+          <target>The order is posted as number %1 and moved to the Posted Sales Invoices window.\\Do you want to open the posted invoice?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ticket Sale Form - NamedType OpenPostedSalesOrderQst</note>
+        </trans-unit>
+        <trans-unit id="Page 64885819 - Control 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Price from Vendor, €</source>
+          <target>Ticket Price from Vendor, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Reference List - Control Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64885819 - Control 3892660678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max Items</source>
+          <target>Max Items</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Reference List - Control MaxItems - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64885819 - Control 1107860459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max Item Weigth, kg</source>
+          <target>Max Item Weigth, kg</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Reference List - Control MaxItemWeigth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64885819 - Control 3267659829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For Extra Item (per Item)</source>
+          <target>Price For Extra Item (per Item)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Reference List - Control PriceForItem - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64885819 - Control 2988273342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For Extra kg (per kg)</source>
+          <target>Price For Extra kg (per kg)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Flight Reference List - Control PriceForKg - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2979686356 - Control 294122377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Price for Check-In, €</source>
+          <target>Default Price for Check-In, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page New Airline - Control Default Price CheckIn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2979686356 - Control 3328485880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Price for Boarding, €</source>
+          <target>Default Price for Boarding, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page New Airline - Control Default Price Boarding - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113853364 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airline No.</source>
+          <target>Airline No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Airline - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113853364 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airline Name</source>
+          <target>Airline Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Airline - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113853364 - Control 624116995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airline Code</source>
+          <target>Airline Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Airline - Control Airline Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113853364 - Control 294122377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Price for Check-In, €</source>
+          <target>Default Price for Check-In, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Airline - Control Default Price CheckIn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113853364 - Control 3328485880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Price for Boarding, €</source>
+          <target>Default Price for Boarding, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Edit Airline - Control Default Price Boarding - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 108285595 - Control 1716362820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers Name</source>
+          <target>Customers Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page New Airline Invoice - Control CustomersName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 108285595 - Control 3102059251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked-In Passenger Count</source>
+          <target>Checked-In Passenger Count</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page New Airline Invoice - Control CheckedIn Passenger Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 108285595 - Control 2341060514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For One Checked-In Passenger</source>
+          <target>Price For One Checked-In Passenger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page New Airline Invoice - Control Price For CheckedIn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 108285595 - Control 302620807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For One Boarded Passenger</source>
+          <target>Price For One Boarded Passenger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page New Airline Invoice - Control Price For Boarded - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 108285595 - NamedType 2087712815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order is posted as number %1 and moved to the Posted Sales Invoices window.\\Do you want to open the posted invoice?</source>
+          <target>The order is posted as number %1 and moved to the Posted Sales Invoices window.\\Do you want to open the posted invoice?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page New Airline Invoice - NamedType OpenPostedSalesOrderQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1944738352 - Control 1716362820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers Name</source>
+          <target>Customers Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Airline Invoice - Control CustomersName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1944738352 - Control 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Status</source>
+          <target>Payment Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Airline Invoice - Control Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 590881528 - Control 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Code</source>
+          <target>Vendor Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Ticket Sale List - Control Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 590881528 - Control 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Code</source>
+          <target>Customer Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Ticket Sale List - Control Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2376675128 - Control 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Code</source>
+          <target>Vendor Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Ticket Purchase List - Control Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2943613510 - Control 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Code</source>
+          <target>Vendor Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ticket Sale/Purchase Journal - Control Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2943613510 - Control 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Code</source>
+          <target>Customer Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ticket Sale/Purchase Journal - Control Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4278402002 - Control 1936001480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Code</source>
+          <target>Vendor Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ticket Sale/Purchase Ledger - Control Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4278402002 - Control 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Code</source>
+          <target>Customer Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ticket Sale/Purchase Ledger - Control Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 849806224 - Control 2341060514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For CheckedIn, €</source>
+          <target>Price For CheckedIn, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Airline Invoice Journal - Control Price For CheckedIn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 849806224 - Control 302620807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For Boarded, €</source>
+          <target>Price For Boarded, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Airline Invoice Journal - Control Price For Boarded - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 849806224 - Control 2812148497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price, €</source>
+          <target>Total Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Airline Invoice Journal - Control Total Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2644748564 - Control 2341060514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For CheckedIn, €</source>
+          <target>Price For CheckedIn, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Airline Invoice Ledger - Control Price For CheckedIn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2644748564 - Control 302620807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price For Boarded, €</source>
+          <target>Price For Boarded, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Airline Invoice Ledger - Control Price For Boarded - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2644748564 - Control 2812148497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price, €</source>
+          <target>Total Price, €</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Airline Invoice Ledger - Control Total Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 1379014654" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight List</source>
+          <target>Flight List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType FlightList</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 639139516" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check-In Journal</source>
+          <target>Check-In Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType CheckInJournal</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 2728087368" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check-In Ledger</source>
+          <target>Check-In Ledger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType CheckInLedger</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 2074919253" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Journal</source>
+          <target>Boarding Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType BoardingJournal</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 2437716521" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Ledger</source>
+          <target>Boarding Ledger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType BoardingLedger</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 1769344000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Ticket Sale List</source>
+          <target>Posted Ticket Sale List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType PostedTicketSaleList</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 3860605682" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Ticket Purchase List</source>
+          <target>Posted Ticket Purchase List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType PoatedTicketPurchaseList</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 1464813663" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Sale/Purchase Journal</source>
+          <target>Ticket Sale/Purchase Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType TicketSalePurchaseJournal</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 2285694571" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ticket Sale/Purchase Ledger</source>
+          <target>Ticket Sale/Purchase Ledger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType TicketSalePurchaseLedger</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 1156901416" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airline Invoice Journal</source>
+          <target>Airline Invoice Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType AirlineInvoiceJournal</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 545808572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airline Invoice Ledger</source>
+          <target>Airline Invoice Ledger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType AirlineInvoiceLedger</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 1546229618" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Flights</source>
+          <target>Import Flights</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType ImportFlights</note>
+        </trans-unit>
+        <trans-unit id="Page 2490384303 - NamedType 2917846352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Passengers</source>
+          <target>Import Passengers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Manager RoleCenter Content - NamedType ImportPassengers</note>
+        </trans-unit>
+        <trans-unit id="Page 697983177 - NamedType 1379014654" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flight List</source>
+          <target>Flight List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Agent RoleCenter Content - NamedType FlightList</note>
+        </trans-unit>
+        <trans-unit id="Page 697983177 - NamedType 639139516" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check-In Journal</source>
+          <target>Check-In Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Agent RoleCenter Content - NamedType CheckInJournal</note>
+        </trans-unit>
+        <trans-unit id="Page 697983177 - NamedType 2728087368" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check-In Ledger</source>
+          <target>Check-In Ledger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Agent RoleCenter Content - NamedType CheckInLedger</note>
+        </trans-unit>
+        <trans-unit id="Page 697983177 - NamedType 2074919253" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Journal</source>
+          <target>Boarding Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Agent RoleCenter Content - NamedType BoardingJournal</note>
+        </trans-unit>
+        <trans-unit id="Page 697983177 - NamedType 2437716521" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarding Ledger</source>
+          <target>Boarding Ledger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Agent RoleCenter Content - NamedType BoardingLedger</note>
+        </trans-unit>
+        <trans-unit id="Page 1614306238 - NamedType 4089118995" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Ledger Entries</source>
+          <target>General Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Standart Pages Content - NamedType GeneralLedgerEntries</note>
+        </trans-unit>
+        <trans-unit id="Page 1614306238 - NamedType 4166035261" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Ledger Entries</source>
+          <target>Vendor Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Standart Pages Content - NamedType VendorLedgerEntries</note>
+        </trans-unit>
+        <trans-unit id="Page 1614306238 - NamedType 3335603717" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Ledger Entries</source>
+          <target>Customer Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Standart Pages Content - NamedType CustomerLedgerEntries</note>
+        </trans-unit>
+        <trans-unit id="Page 1614306238 - NamedType 2726139539" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Registers</source>
+          <target>G/L Registers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Standart Pages Content - NamedType GLRegisters</note>
+        </trans-unit>
+        <trans-unit id="Page 1614306238 - NamedType 3505869542" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Entries</source>
+          <target>Item Ledger Entries</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Standart Pages Content - NamedType ItemLedgerEntries</note>
+        </trans-unit>
+        <trans-unit id="Page 1614306238 - NamedType 1592251668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Invoices</source>
+          <target>Posted Purchase Invoices</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Standart Pages Content - NamedType PostedPurchaseInvoices</note>
+        </trans-unit>
+        <trans-unit id="Page 1614306238 - NamedType 161046261" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoices</source>
+          <target>Posted Sales Invoices</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Standart Pages Content - NamedType PostedSalesInvoices</note>
+        </trans-unit>
+        <trans-unit id="Report 3001483623 - ReportLabel 4120029155" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missed Passengers:</source>
+          <target>Missed Passengers:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Airline Invoice - ReportLabel MissedDate</note>
+        </trans-unit>
+        <trans-unit id="Report 3001483623 - ReportLabel 586918928" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checked-In Passengers:</source>
+          <target>Checked-In Passengers:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Airline Invoice - ReportLabel CheckedInDate</note>
+        </trans-unit>
+        <trans-unit id="Report 3001483623 - ReportLabel 3014958937" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boarded Passengers:</source>
+          <target>Boarded Passengers:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Airline Invoice - ReportLabel BoardedDate</note>
+        </trans-unit>
+        <trans-unit id="Report 3001483623 - ReportLabel 2456166346" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Passengers:</source>
+          <target>All Passengers:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Airline Invoice - ReportLabel TotalDate</note>
+        </trans-unit>
+        <trans-unit id="Report 3001483623 - ReportLabel 2350941416" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GrandTotal</source>
+          <target>GrandTotal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Airline Invoice - ReportLabel GrandTotal</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
